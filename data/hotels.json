@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Sunshine",
+    "location": "Bangalore",
+    "price_per_night": 3200,
+    "rating": 4.2,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking"],
+    "category": "mid-range",
+    "description": "Comfortable hotel in the heart of Bangalore with modern amenities"
+  },
+  {
+    "id": 2,
+    "name": "Grand Palace Hotel",
+    "location": "Bangalore",
+    "price_per_night": 8500,
+    "rating": 4.8,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "spa", "gym"],
+    "category": "luxury",
+    "description": "Luxury hotel with premium facilities and excellent service"
+  },
+  {
+    "id": 3,
+    "name": "Budget Stay Inn",
+    "location": "Bangalore",
+    "price_per_night": 1800,
+    "rating": 3.5,
+    "amenities": ["wifi", "breakfast", "ac"],
+    "category": "budget",
+    "description": "Affordable accommodation with basic amenities"
+  },
+  {
+    "id": 4,
+    "name": "Beach Paradise Resort",
+    "location": "Goa",
+    "price_per_night": 6500,
+    "rating": 4.5,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "spa", "beach_access"],
+    "category": "luxury",
+    "description": "Beautiful beachfront resort with stunning ocean views"
+  },
+  {
+    "id": 5,
+    "name": "Goa Village Retreat",
+    "location": "Goa",
+    "price_per_night": 3800,
+    "rating": 4.0,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking"],
+    "category": "mid-range",
+    "description": "Traditional Goan hospitality with modern comforts"
+  },
+  {
+    "id": 6,
+    "name": "Backpackers Goa",
+    "location": "Goa",
+    "price_per_night": 1200,
+    "rating": 3.8,
+    "amenities": ["wifi", "breakfast"],
+    "category": "budget",
+    "description": "Perfect for budget travelers and backpackers"
+  },
+  {
+    "id": 7,
+    "name": "Marine Plaza Mumbai",
+    "location": "Mumbai",
+    "price_per_night": 9200,
+    "rating": 4.7,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "spa", "gym", "restaurant"],
+    "category": "luxury",
+    "description": "Premium hotel overlooking the Arabian Sea"
+  },
+  {
+    "id": 8,
+    "name": "Urban Comfort Hotel",
+    "location": "Mumbai",
+    "price_per_night": 4500,
+    "rating": 4.1,
+    "amenities": ["wifi", "breakfast", "ac", "parking", "gym"],
+    "category": "mid-range",
+    "description": "Modern hotel in the business district"
+  },
+  {
+    "id": 9,
+    "name": "City Budget Inn",
+    "location": "Mumbai",
+    "price_per_night": 2200,
+    "rating": 3.6,
+    "amenities": ["wifi", "breakfast", "ac"],
+    "category": "budget",
+    "description": "Clean and affordable rooms in central Mumbai"
+  },
+  {
+    "id": 10,
+    "name": "Royal Delhi Palace",
+    "location": "Delhi",
+    "price_per_night": 7800,
+    "rating": 4.6,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "spa", "gym", "restaurant"],
+    "category": "luxury",
+    "description": "Heritage hotel with royal treatment and modern luxury"
+  },
+  {
+    "id": 11,
+    "name": "Delhi Heights Hotel",
+    "location": "Delhi",
+    "price_per_night": 3500,
+    "rating": 4.0,
+    "amenities": ["wifi", "breakfast", "ac", "parking", "restaurant"],
+    "category": "mid-range",
+    "description": "Comfortable stay with easy access to major attractions"
+  },
+  {
+    "id": 12,
+    "name": "Pigeon Nest Delhi",
+    "location": "Delhi",
+    "price_per_night": 1500,
+    "rating": 3.4,
+    "amenities": ["wifi", "breakfast"],
+    "category": "budget",
+    "description": "Simple and clean accommodation for budget travelers"
+  },
+  {
+    "id": 13,
+    "name": "Kerala Backwaters Resort",
+    "location": "Kerala",
+    "price_per_night": 7200,
+    "rating": 4.7,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "spa", "boat_rides"],
+    "category": "luxury",
+    "description": "Serene resort amidst the beautiful backwaters of Kerala"
+  },
+  {
+    "id": 14,
+    "name": "Hill View Manali",
+    "location": "Manali",
+    "price_per_night": 4200,
+    "rating": 4.3,
+    "amenities": ["wifi", "breakfast", "ac", "parking", "mountain_view"],
+    "category": "mid-range",
+    "description": "Cozy hotel with breathtaking mountain views"
+  },
+  {
+    "id": 15,
+    "name": "Snow Peak Resort Manali",
+    "location": "Manali",
+    "price_per_night": 5500,
+    "rating": 4.4,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "spa", "mountain_view"],
+    "category": "luxury",
+    "description": "Premium resort with snow-capped mountain views"
+  },
+  {
+    "id": 16,
+    "name": "Pune Central Hotel",
+    "location": "Pune",
+    "price_per_night": 3800,
+    "rating": 4.1,
+    "amenities": ["wifi", "breakfast", "ac", "parking", "gym"],
+    "category": "mid-range",
+    "description": "Modern hotel in the heart of Pune city"
+  },
+  {
+    "id": 17,
+    "name": "Hyderabad Tech Hub",
+    "location": "Hyderabad",
+    "price_per_night": 4000,
+    "rating": 4.2,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "gym", "business_center"],
+    "category": "mid-range",
+    "description": "Business-friendly hotel near tech parks"
+  },
+  {
+    "id": 18,
+    "name": "Chennai Marina Hotel",
+    "location": "Chennai",
+    "price_per_night": 4800,
+    "rating": 4.0,
+    "amenities": ["wifi", "breakfast", "ac", "parking", "restaurant", "beach_access"],
+    "category": "mid-range",
+    "description": "Beachfront hotel with easy access to Marina Beach"
+  },
+  {
+    "id": 19,
+    "name": "Jaipur Heritage Hotel",
+    "location": "Jaipur",
+    "price_per_night": 5200,
+    "rating": 4.5,
+    "amenities": ["wifi", "pool", "breakfast", "ac", "parking", "spa", "restaurant"],
+    "category": "luxury",
+    "description": "Traditional Rajasthani hospitality in a heritage setting"
+  },
+  {
+    "id": 20,
+    "name": "Garden City Bangalore",
+    "location": "Bangalore",
+    "price_per_night": 2800,
+    "rating": 3.9,
+    "amenities": ["wifi", "breakfast", "ac", "parking", "garden"],
+    "category": "mid-range",
+    "description": "Peaceful hotel surrounded by beautiful gardens"
+  }
+]

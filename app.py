@@ -1,9 +1,13 @@
+import os
 import streamlit as st
+
+# Safe injection of secrets into environment variables
+for key in st.secrets:
+    value = st.secrets[key]
+    if isinstance(value, (str, int, float, bool)):
+        os.environ[key] = str(value)
 import json
 import logging
-if st.secrets:
-    for key, value in st.secrets.items():
-        os.environ[key] = str(value)
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Any
 

@@ -1,6 +1,9 @@
 import streamlit as st
 import json
 import logging
+if st.secrets:
+    for key, value in st.secrets.items():
+        os.environ[key] = str(value)
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional, Any
 
